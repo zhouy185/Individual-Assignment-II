@@ -27,11 +27,11 @@ The notebook outlines the details tasks to be completed.
 
 ## Learning Goals
 
-By completing this assignment to:
+By completing this assignment:
 
 * Practice skills in data visualization.
 
-* Develop skills to interpret visualizations into business insights.
+* Develop skills to interpret visualizations and provide business insights.
 
 ## Files Provided
 
